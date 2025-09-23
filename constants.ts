@@ -4,7 +4,7 @@ export const resumeData = {
   hero: {
     name: "Ratna Srikar Duriseti",
     title: "Data Enthusiast",
-    image: "/profile.jpg",
+    image: "/Portfolio/profile.jpg",
   },
   about: {
     summary: "Data Enthusiast with 4+ years of experience across aerospace, analytics, and AI domains. Skilled in delivering business insights, building scalable data pipelines, and deploying AI-powered solutions with LLM integration and cloud technologies. Adept at transforming complex data into actionable intelligence and automation.",
