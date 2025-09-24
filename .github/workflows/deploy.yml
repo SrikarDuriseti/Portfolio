@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [ main ]
+    branches: [ main, deploy-test ]
   # Remove pull_request trigger for deployments
   workflow_dispatch:
 
